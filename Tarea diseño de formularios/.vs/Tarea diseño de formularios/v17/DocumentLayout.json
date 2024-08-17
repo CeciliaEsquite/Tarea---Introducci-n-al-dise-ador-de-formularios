@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD9D66C-7119-4388-8DBC-5C0EEF7DEF4A}|Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios.csproj|c:\\users\\cinth\\onedrive\\documentos\\abi\\github\\tarea dise\u00F1o de formularios\\tarea dise\u00F1o de formularios\\tarea dise\u00F1o de formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD9D66C-7119-4388-8DBC-5C0EEF7DEF4A}|Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios.csproj|solutionrelative:tarea dise\u00F1o de formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD9D66C-7119-4388-8DBC-5C0EEF7DEF4A}|Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios.csproj|C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\tarea dise\u00F1o de formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AD9D66C-7119-4388-8DBC-5C0EEF7DEF4A}|Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios.csproj|solutionrelative:tarea dise\u00F1o de formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD9D66C-7119-4388-8DBC-5C0EEF7DEF4A}|Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios.csproj|c:\\users\\cinth\\onedrive\\documentos\\abi\\github\\tarea dise\u00F1o de formularios\\tarea dise\u00F1o de formularios\\tarea dise\u00F1o de formularios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD9D66C-7119-4388-8DBC-5C0EEF7DEF4A}|Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios.csproj|solutionrelative:tarea dise\u00F1o de formularios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "Tarea dise\u00F1o de formularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Form1.cs",
+              "RelativeToolTip": "Tarea dise\u00F1o de formularios\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:50:08.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Tarea dise\u00F1o de formularios\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Form1.Designer.cs",
+              "RelativeToolTip": "Tarea dise\u00F1o de formularios\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:02:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "Tarea dise\u00F1o de formularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cinth\\OneDrive\\Documentos\\abi\\GitHub\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Tarea dise\u00F1o de formularios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea dise\u00F1o de formularios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:37:22.452Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

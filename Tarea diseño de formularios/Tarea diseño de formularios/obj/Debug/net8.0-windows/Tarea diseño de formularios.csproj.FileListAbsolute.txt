@@ -1,0 +1,16 @@
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\bin\Debug\net8.0-windows\Tarea diseño de formularios.exe
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\bin\Debug\net8.0-windows\Tarea diseño de formularios.deps.json
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\bin\Debug\net8.0-windows\Tarea diseño de formularios.runtimeconfig.json
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\bin\Debug\net8.0-windows\Tarea diseño de formularios.dll
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\bin\Debug\net8.0-windows\Tarea diseño de formularios.pdb
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea_diseño_de_formularios.Form1.resources
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.csproj.GenerateResource.cache
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.AssemblyInfoInputs.cache
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.AssemblyInfo.cs
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.csproj.CoreCompileInputs.cache
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.dll
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\refint\Tarea diseño de formularios.dll
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.pdb
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.genruntimeconfig.cache
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\ref\Tarea diseño de formularios.dll
