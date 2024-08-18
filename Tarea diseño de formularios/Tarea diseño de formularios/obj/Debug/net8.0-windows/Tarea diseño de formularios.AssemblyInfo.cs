@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarea diseño de formularios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9681dbbf6b08afbf4e17bf62dd810699d65cc8af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarea diseño de formularios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarea diseño de formularios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -102,9 +102,9 @@
             // 
             listBoxContactos.FormattingEnabled = true;
             listBoxContactos.ItemHeight = 15;
-            listBoxContactos.Location = new Point(515, 20);
+            listBoxContactos.Location = new Point(491, 17);
             listBoxContactos.Name = "listBoxContactos";
-            listBoxContactos.Size = new Size(190, 244);
+            listBoxContactos.Size = new Size(261, 319);
             listBoxContactos.TabIndex = 8;
             // 
             // buttonLimpiar

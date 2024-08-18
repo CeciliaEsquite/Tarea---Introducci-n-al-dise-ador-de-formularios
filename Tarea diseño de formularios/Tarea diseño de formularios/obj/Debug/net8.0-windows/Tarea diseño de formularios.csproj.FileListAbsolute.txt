@@ -14,3 +14,4 @@ C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea
 C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.pdb
 C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.genruntimeconfig.cache
 C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\ref\Tarea diseño de formularios.dll
+C:\Users\Cinth\OneDrive\Documentos\abi\GitHub\Tarea diseño de formularios\Tarea diseño de formularios\Tarea diseño de formularios\obj\Debug\net8.0-windows\Tarea diseño de formularios.sourcelink.json

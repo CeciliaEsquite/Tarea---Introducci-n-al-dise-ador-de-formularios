@@ -18,6 +18,7 @@ namespace Tarea_diseño_de_formularios
             listBoxContactos.Items.Add(datofinalTelefono);
             String datofinalEmail = valorobtenidotextBoxEmail;
             listBoxContactos.Items.Add(datofinalEmail);
+
         }
 
         private void buttonLimpiar_Click(object sender, EventArgs e)
